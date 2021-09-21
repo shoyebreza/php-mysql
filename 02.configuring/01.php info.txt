@@ -1,0 +1,3 @@
+open xampp folder 
+run cmd 
+php -v

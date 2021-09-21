@@ -1,0 +1,2 @@
+this is the test file of file size ;
+the quick brown fox jumps over the lazy dog ;
